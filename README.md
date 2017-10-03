@@ -18,6 +18,12 @@ Also available for Node.js.
 > bower install js-url
 ```
 
+## CDN Install
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/js-url@2/url.min.js"></script>
+```
+
 ## Notes
 
 For path(1) and path(-1) will always act as if the path is in the form `/some/path/` regardless of whether the original path was `/some/path` or `some/path/`.
