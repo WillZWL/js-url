@@ -12,7 +12,7 @@
   },
   "homepage" : "http://url.websanova.com",
   "license": "MIT, GPL",
-  "dependencies": {
+  "devDependencies": {
     "grunt-contrib-qunit": "",
     "grunt-contrib-uglify": "",
     "grunt-contrib-jshint": ""
